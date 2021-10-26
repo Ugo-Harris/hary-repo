@@ -1,3 +1,3 @@
-#Tutorial
+# Tutorial
 
-A lesson video
+A lesson video for my Git and Github.
